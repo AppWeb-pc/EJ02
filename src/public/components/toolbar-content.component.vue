@@ -18,15 +18,7 @@ export default {
 .toolbar {
   background-color: #000000;
   color: white;
-  padding: 1.5rem;
+  padding: 20px;
   text-align: center;
-  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
-}
-
-.toolbar h1 {
-  margin: 0;
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: white;
 }
 </style>
